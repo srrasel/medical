@@ -1,7 +1,7 @@
 "use client"
 import { useState } from "react"
 import { Menu, X, ChevronDown, Search, User, Mail, Phone, MessageCircle, Calendar, MapPin } from "lucide-react"
-import Link from "next/Link"
+import Link from "next/link"
 import Image from "next/image"
 
 const Header = () => {
